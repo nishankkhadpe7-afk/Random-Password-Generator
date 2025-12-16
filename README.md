@@ -1,7 +1,7 @@
 # Secure Password Generator
 A robust and user-friendly Password Generator built using Python. This project demonstrates random string manipulation, GUI development with Tkinter, and clipboard integration to create secure passwords easily.
 
-![alt text](<WhatsApp Image 2025-12-17 at 2.01.39 AM.jpeg>)
+![alt text](<Image.jpeg>)
 
 # 📌 Features
 1. **Customizable Length:** Users can define the exact length of the password (minimum 8 characters).
