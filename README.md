@@ -21,7 +21,7 @@ A robust and user-friendly Password Generator built using Python. This project d
 # Project Structure
 ```text
 Password-Generator
-├─ main.py                # Main application script
+├─ main.py       # Main application script
 └─ README.md     # Documentation
 ```
 
